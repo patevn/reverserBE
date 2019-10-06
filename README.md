@@ -2,8 +2,7 @@
 
 
 # Reverser Server/API
-
-One Paragraph of project description goes here
+Simple Express template back end for a simple APU that flips text
 
 ## Getting Started
 
